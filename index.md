@@ -1,4 +1,4 @@
-## China urban precipitation IDF curves in a warming climate
+## China’s Urban Precipitation IDF Curves Considering Climate Change Impacts
 
 <iframe src="IDF_map.html"></iframe>
 
