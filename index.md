@@ -2,5 +2,5 @@
 
 <iframe src="index.html"></iframe>
 
-You can explore this map [as its own web page here](index.html).
+You can explore this map [as its own web page here](https://boen-zhang.github.io/urban-IDF-curves/).
 
