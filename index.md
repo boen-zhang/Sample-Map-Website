@@ -1,6 +1,6 @@
 ## China’s Urban Precipitation IDF Curves Considering Climate Change Impacts
 
-<iframe src="IDF_map.html"></iframe>
+<iframe src="index.html"></iframe>
 
-You can explore this map [as its own web page here](IDF_map.html).
+You can explore this map [as its own web page here](index.html).
 
